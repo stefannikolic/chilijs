@@ -1,0 +1,22 @@
+{
+  "name": "chilijs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefannikolic/chilijs.git"
+  },
+  "author": "Stefan Nikolic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefannikolic/chilijs/issues"
+  },
+  "homepage": "https://github.com/stefannikolic/chilijs#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
